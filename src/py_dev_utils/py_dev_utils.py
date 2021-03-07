@@ -17,7 +17,6 @@ def get_unique_idx(list_in):
     return list_out
 
 
-
 def check_whether_iterator_empty(iterator):
     '''
     @usage: returns iterator if not empty, and None otherwise.
